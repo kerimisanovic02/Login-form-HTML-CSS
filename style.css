@@ -1,0 +1,31 @@
+body{
+    background-color: #ccc;
+    background-image:url(pozadina.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+}
+
+#wraper{
+    width: 900px;
+    background-color:rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    height: 900px;
+    margin:auto;
+}
+#wrap{
+    background-color: green;
+}
+#item{
+    background-color: green;
+}
